@@ -1,0 +1,7 @@
+    <?xml version="1.0" encoding="utf-8"?>
+        <privapp-permissions package="com.huawei.android.hsf">
+        <permission name="android.permission.DELETE_PACKAGES"/>
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+    </privapp-permissions>

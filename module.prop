@@ -1,0 +1,6 @@
+id=HMS_Service
+name=HMS服务
+version=2.0
+versionCode=20
+author=mozi1924
+description=为非华为设备提供华为推送，HMS服务，支持华为应用商店静默安装

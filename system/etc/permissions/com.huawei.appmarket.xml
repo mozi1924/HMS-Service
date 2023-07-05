@@ -1,0 +1,33 @@
+    <?xml version="1.0" encoding="utf-8"?>
+    <privapp-permissions package="com.huawei.appmarket">
+        <permission name="android.permission.ALLOCATE_AGGRESSIVE"/>
+        <permission name="android.permission.DELETE_PACKAGES"/>
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.MANAGE_USERS"/>
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.REAL_GET_TASKS"/>
+        <permission name="android.permission.STOP_APP_SWITCHES"/>
+        <permission name="android.permission.WRITE_APN_SETTINGS"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="com.huawei.android.permission.GET_CHR_DATA"/>
+        <permission name="com.huawei.gameassistant.permission.WIRTE_GAME_LIST"/>
+        <permission name="com.huawei.permission.ACCESS_DISPLAY_ENGINE"/>
+        <permission name="com.huawei.permission.ACCESS_SYSTEM_WHITE_LIST"/>
+        <permission name="com.huawei.permission.CONFIG_BRIGHTNESS"/>
+        <permission name="com.huawei.permission.INSTALL_APP_DISABLE_VERIFY"/>
+        <permission name="com.huawei.permission.MANAGE_FOLD_SCREEN"/>
+        <permission name="com.huawei.permission.MANAGE_SECURITYPROFILE"/>
+        <permission name="com.huawei.permission.MANAGE_TRUSTSPACE"/>
+        <permission name="com.huawei.permission.SECURITY_DIAGNOSE"/>
+        <permission name="com.huawei.permission.SET_WINDOW_MODE"/>
+        <permission name="com.huawei.permission.SKIP_TRIGGER_FREEFORM"/>
+        <permission name="com.huawei.permission.sec.ACCESS_UDID"/>
+        <permission name="huawei.android.permission.HW_SIGNATURE_OR_SYSTEM"/>
+        <permission name="ohos.permission.GET_BUNDLE_INFO_PRIVILEGED"/>
+        <permission name="ohos.permission.INSTALL_BUNDLE"/>
+        <permission name="ohos.permission.LISTEN_BUNDLE_CHANGE"/>
+    </privapp-permissions>
